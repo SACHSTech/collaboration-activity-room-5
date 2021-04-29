@@ -8,9 +8,9 @@ Southfield, MI 48235
 
 [email]
 
----
+## Objective
 
-Objective To take a challenging role as Mobile Applications Developer in a highly technical company where I could utilize my skills in OS, Programming Languages, Scripting Languages, Server Technologies, Databases, and Virtualization Software and use these skills to produce the most advanced mobile applications.
+ To take a challenging role as Mobile Applications Developer in a highly technical company where I could utilize my skills in OS, Programming Languages, Scripting Languages, Server Technologies, Databases, and Virtualization Software and use these skills to produce the most advanced mobile applications.
 
 ## Education
 
